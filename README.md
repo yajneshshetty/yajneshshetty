@@ -68,6 +68,34 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
   </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yajneshshetty&show_icons=true&locale=en&layout=compact" alt="yajneshshetty" /></p>
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="40" height="40"/> 
+  </a> 
+  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg" alt="superset" width="40" height="40"/> 
+  </a> 
+  <a href="https://dask.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" alt="dask" width="40" height="40"/> 
+  </a> 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+  </a> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.quicksight.aws/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_quicksight/amazon_quicksight-icon.svg" alt="quicksight" width="40" height="40"/> 
+  </a> 
+  <a href="https://prestodb.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/prestodb/prestodb-icon.svg" alt="prestodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sagemaker.aws/" target="_blank"
