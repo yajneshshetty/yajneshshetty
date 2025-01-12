@@ -64,6 +64,7 @@ Design and deployment of data pipelines integrating **Kafka**, **Airflow**, and 
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" />
 </p>
 
+
 ---
 
 ## 📈 GitHub Stats  
