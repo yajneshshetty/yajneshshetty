@@ -1,101 +1,81 @@
 <h1 align="center">Hi 👋, I'm Yajnesh Shetty</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://avatars.githubusercontent.com/u/54422842?v=4">
+<h3 align="center">A passionate Data Engineer from India 🚀</h3>
 
-- 🔭 I’m currently working on Data Engineering
-
-- 🌱 I’m currently learning **Advanced Analytics & Machine Learning**
-
-- 📫 How to reach me **Yajneshshetty000@gmail.com**
-
-- 📄 Know about my experiences https://www.linkedin.com/in/yajneshshetty/
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yajneshshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yajneshshetty" height="30" width="40" /></a>
-<a href="https://instagram.com/_yajneshshetty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yajneshshetty_" height="30" width="40" /></a>
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54422842/106046083-e9391480-60fc-11eb-859e-d8109f9c7a80.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="40" height="40"/> 
-  </a> 
-  <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg" alt="superset" width="40" height="40"/> 
-  </a> 
-  <a href="https://dask.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" alt="dask" width="40" height="40"/> 
-  </a> 
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.quicksight.aws/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_quicksight/amazon_quicksight-icon.svg" alt="quicksight" width="40" height="40"/> 
-  </a> 
-  <a href="https://prestodb.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/prestodb/prestodb-icon.svg" alt="prestodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sagemaker.aws/" target="_blank"
+---
+
+### 🛠 About Me  
+- 🔭 I’m currently working on **Data Engineering**  
+- 🌱 I’m learning **Advanced Analytics & Machine Learning**  
+- 📫 Reach me at **Yajneshshetty000@gmail.com**  
+- 📄 My Experiences: [LinkedIn](https://www.linkedin.com/in/yajneshshetty/)  
+- ⚡ Fun fact: **I think I am funny!**
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/yajneshshetty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/_yajneshshetty_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+### 💻 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,oracle,tableau,powerbi,aws,azure,gcp,airflow,kafka,spark,docker,kubernetes&theme=dark" alt="Languages & Tools">
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yajneshshetty&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajneshshetty&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 🎯 Projects  
+- [**Resume Bulk Upload System**](https://github.com/YajneshShetty/Resume-Bulk-Upload)  
+  Built a scalable system for bulk resume uploads using EngineX and AWS S3.  
+- [**Data Analytics Pipeline**](https://github.com/YajneshShetty/Data-Analytics-Pipeline)  
+  Implemented a real-time analytics system using Kafka and Airflow.  
+- [**Machine Learning Models for Predictions**](https://github.com/YajneshShetty/ML-Prediction-Models)  
+  Deployed ML models with Azure ML and GCP AI Hub.  
+
+---
+
+### 🔥 Fun with GitHub Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yajneshshetty&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 🚀 Featured Contributions  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yajneshshetty&theme=radical" alt="GitHub Trophies">
+</p>
+
+---
+
+### 🎨 Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
+
+---
+
+### 📫 Contact Me  
+📧 Email: **Yajneshshetty000@gmail.com**  
+📱 LinkedIn: [Yajnesh Shetty](https://www.linkedin.com/in/yajneshshetty/)  
