@@ -1,81 +1,83 @@
-<h1 align="center">Hi 👋, I'm Yajnesh Shetty</h1>
-<h3 align="center">A passionate Data Engineer from India 🚀</h3>
-
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54422842/106046083-e9391480-60fc-11eb-859e-d8109f9c7a80.gif">
-</p>
+# 💫 Hi, I'm Shetty Yajnesh Chandrashekar! 👋  
+🌟 **Aspiring Data Engineer | Cloud Enthusiast | ML Practitioner**
 
 ---
 
-### 🛠 About Me  
-- 🔭 I’m currently working on **Data Engineering**  
-- 🌱 I’m learning **Advanced Analytics & Machine Learning**  
-- 📫 Reach me at **Yajneshshetty000@gmail.com**  
-- 📄 My Experiences: [LinkedIn](https://www.linkedin.com/in/yajneshshetty/)  
-- ⚡ Fun fact: **I think I am funny!**
+🔍 I specialize in leveraging **data engineering** tools and cloud platforms to solve real-world problems. With expertise in **Python, SQL, R**, and modern data pipelines, I aim to make data more actionable and accessible.
+
+📍 **Location**: Bengaluru, India  
+🎓 **Education**: Bachelor of Science in Computer Science  
+💼 **Current Role**: Associate Trainee at [Bluerose Technologies](https://www.bluerose-tech.com/)
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/yajneshshetty" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/_yajneshshetty_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" />
+<img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" width="48" />
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" />
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" />
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" />
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="48" />
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="48" />
+<img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" width="48" />
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" />
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48" />
+
+</div>
 
 ---
 
-### 💻 Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,oracle,tableau,powerbi,aws,azure,gcp,airflow,kafka,spark,docker,kubernetes&theme=dark" alt="Languages & Tools">
-</p>
+## 📂 Projects
+
+### 1. **Advanced Data Engineering Pipeline**
+- Built a **real-time pipeline** using **Kafka** and **Airflow**.
+- Leveraged **Zookeeper** for distributed system management.
+- Hosted on **AWS** with data stored in **S3**.
+
+### 2. **Resume Bulk Upload**
+- Automated the bulk upload of resumes using **EngineX**.
+- Converted **DOCX to PDF** with **LibreOffice** and stored in **AWS S3**.
+
+### 3. **Plant Disease Detection**
+- Designed a deep learning-based solution for detecting plant diseases.
+- Integrated visualization dashboards using **Tableau**.
+
+For more projects, visit my [GitHub Repositories](https://github.com/YourGitHubUsername).
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yajneshshetty&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajneshshetty&layout=compact&theme=radical" alt="Top Languages">
-</p>
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://your-portfolio-link.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+
+</div>
 
 ---
 
-### 🎯 Projects  
-- [**Resume Bulk Upload System**](https://github.com/YajneshShetty/Resume-Bulk-Upload)  
-  Built a scalable system for bulk resume uploads using EngineX and AWS S3.  
-- [**Data Analytics Pipeline**](https://github.com/YajneshShetty/Data-Analytics-Pipeline)  
-  Implemented a real-time analytics system using Kafka and Airflow.  
-- [**Machine Learning Models for Predictions**](https://github.com/YajneshShetty/ML-Prediction-Models)  
-  Deployed ML models with Azure ML and GCP AI Hub.  
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-### 🔥 Fun with GitHub Streaks  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yajneshshetty&theme=radical" alt="GitHub Streak">
-</p>
+## 🌱 Fun Facts About Me
+- I'm passionate about making sense of messy data and building pipelines to keep them flowing smoothly.
+- My hobbies include exploring **AI innovations** and **cloud solutions** for business growth.
+- I enjoy sharing heartfelt messages to brighten someone’s day. 😊
 
 ---
 
-### 🚀 Featured Contributions  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yajneshshetty&theme=radical" alt="GitHub Trophies">
-</p>
-
----
-
-### 🎨 Fun Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
-
----
-
-### 📫 Contact Me  
-📧 Email: **Yajneshshetty000@gmail.com**  
-📱 LinkedIn: [Yajnesh Shetty](https://www.linkedin.com/in/yajneshshetty/)  
+✨ *Let’s collaborate on exciting projects and shape the future of data together!* 
