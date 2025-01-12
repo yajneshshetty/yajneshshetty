@@ -1,49 +1,84 @@
-# 💻 **Yajnesh Chandrashekar Shetty**
+# 👋 Hi, I'm Yajnesh Shetty!  
+### 🌟 Data Engineer | Machine Learning Enthusiast | Cloud Practitioner  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yajneshshetty/yajneshshetty)
-
-## 🌟 About Me
-
-🎓 **Associate Trainee at Bluerose Technologies**  
-🌏 **Based in Bengaluru, India**  
-📈 **Passionate about data engineering, machine learning, and cloud computing**  
-📂 **Experienced in Python, SQL, Kafka, and AWS**
+Welcome to my GitHub profile! I'm passionate about crafting scalable data pipelines, building innovative machine learning models, and leveraging cloud platforms to solve real-world problems.  
 
 ---
 
-## 🚀 My Technical Expertise
+## 🧑‍💻 About Me  
+- 🌍 Based in Bengaluru, India  
+- 🎓 Bachelor of Science in Computer Science  
+- 💼 Associate Trainee at Bluerose Technologies  
+- 🚀 Open to collaborations on Data Engineering, Machine Learning, and Cloud-based projects  
+- 🌐 Check out my [Portfolio](https://github.com/yajneshshetty/yajneshshetty)  
 
-### **Programming Languages & Tools**
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+## 🌟 Projects  
+### 🔹 **Advanced Resume Parsing**  
+A bulk resume parsing solution using EngineX for computation and storing results in S3, leveraging **LibreOffice** for DOCX to PDF conversion.  
+**Technologies**: Python, AWS (S3), LibreOffice  
+[Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
+
+### 🔹 **Plant Disease Detection**  
+Deep learning-based plant disease detection system for agriculture.  
+**Technologies**: Python, TensorFlow, OpenCV  
+[Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
+
+### 🔹 **Data Engineering Pipelines**  
+Design and deployment of data pipelines integrating **Kafka**, **Airflow**, and **Zookeeper**.  
+**Technologies**: Python, Apache Kafka, Google Cloud  
+[Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
+
+---
+
+## 🚀 Skills & Expertise  
+
+### **Languages & Tools**  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/ios-filled/50/007acc/r-programming.png" alt="R Programming" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postgresql-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" />
+  <img src="https://img.icons8.com/color/48/000000/airflow.png" alt="Airflow" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/zookeeper.png" alt="Zookeeper" />
+</p>
+
+### **Data Visualization**  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" />
+</p>
+
+### **Cloud Platforms**  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-azure.png" alt="Azure" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" />
 </p>
 
 ---
 
-## 📂 My GitHub Stats
+## 📈 GitHub Stats  
 
-![Yajnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yajneshshetty&show_icons=true&theme=radical)
-
----
-
-## 📈 Projects & Contributions
-
-- **[Data Engineering Project 1](https://github.com/yajneshshetty/project-1):** Real-time streaming analytics with Kafka & Airflow.
-- **[Machine Learning Model](https://github.com/yajneshshetty/project-2):** Feature engineering & model deployment on Azure.
-- **[ETL Pipelines](https://github.com/yajneshshetty/project-3):** Built scalable ETL pipelines using AWS.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yajneshshetty&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajneshshetty&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect with Me  
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yajneshshetty) or explore my GitHub profile for exciting projects. 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/yajneshshetty"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="mailto:yajnesh.shetty@example.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" /></a>
+  <a href="https://github.com/yajneshshetty/yajneshshetty"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" /></a>
+</p>
