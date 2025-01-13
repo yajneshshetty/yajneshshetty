@@ -49,9 +49,9 @@ End-to-end design and deployment of robust data pipelines integrating **Kafka**,
 <p align="center">
   <img src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/airflow.png" alt="Airflow" width="48" height="48"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/zookeeper.png" alt="Zookeeper" width="48" height="48"/>
+  <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="Kafka" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtc0vjEWXsTOG5avPWQOg7sm7iBxDxgk9iA&s" alt="Airflow" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/1200px-Apache_ZooKeeper_logo.svg.png" alt="Zookeeper" width="48" height="48"/>
 </p>  
 
 ---
@@ -59,16 +59,16 @@ End-to-end design and deployment of robust data pipelines integrating **Kafka**,
 ### **Data Visualization Tools**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="48" height="48"/>
+  <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="Power BI" width="48" height="48"/>
 </p>  
 
 ---
 
 ### **Cloud Platforms**  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-azure.png" alt="Azure" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48" height="48" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR74gam8kg_Mb10Df2vjG_oGeSLEjhCPoWWLw&s" alt="Azure" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="48" height="48" />
 </p>  
 
 ---
