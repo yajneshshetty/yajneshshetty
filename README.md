@@ -35,32 +35,31 @@ End-to-end design and deployment of robust data pipelines integrating **Kafka**,
 - 🔗 [Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
 
 ---
-
 ## 🚀 **Skills & Expertise**  
 
 ### **Languages & Tools**  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-  <img src="[https://img.icons8.com/ios-filled/50/007acc/r-programming.png](https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg)" alt="R Programming" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="PostgreSQL" width="48" height="48"/>
 </p>  
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" />
-  <img src="https://img.icons8.com/color/48/000000/airflow.png" alt="Airflow" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/zookeeper.png" alt="Zookeeper" />
+  <img src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/airflow.png" alt="Airflow" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/zookeeper.png" alt="Zookeeper" width="48" height="48"/>
 </p>  
 
 ---
 
 ### **Data Visualization Tools**  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI" width="48" height="48"/>
 </p>  
 
 ---
