@@ -44,7 +44,7 @@ End-to-end design and deployment of robust data pipelines integrating **Kafka**,
   <img src="[https://img.icons8.com/ios-filled/50/007acc/r-programming.png](https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg)" alt="R Programming" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postgresql-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL" />
+  <img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="PostgreSQL" />
 </p>  
 
 <p align="center">
