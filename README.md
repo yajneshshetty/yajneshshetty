@@ -13,28 +13,18 @@ Welcome to my GitHub profile! I’m passionate about crafting scalable **data pi
   - Data Engineering  
   - Machine Learning  
   - Cloud-based projects  
-- 🌐 **Portfolio**: [Explore My Work](https://github.com/yajneshshetty/yajneshshetty)  
 
 ---
 
-## 🌟 **Featured Projects**  
+## 🌟 **Featured Project**  
 
-### 🔹 **Advanced Resume Parsing**  
-A high-performance bulk resume parsing solution that processes resumes using **EngineX** for computation and stores results in **AWS S3**. Includes **LibreOffice** integration for DOCX to PDF conversion.  
-- **Technologies**: Python, AWS (S3), LibreOffice  
-- 🔗 [Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
-
-### 🔹 **Plant Disease Detection**  
-A deep learning-based solution designed to detect plant diseases and support sustainable agriculture.  
+### 🔹 **Intracranial Hemorrhage Detection (ICH)**  
+A project leveraging advanced deep learning techniques to detect intracranial hemorrhages from CT scan images, aimed at improving medical diagnosis efficiency and accuracy.  
 - **Technologies**: Python, TensorFlow, OpenCV  
-- 🔗 [Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
-
-### 🔹 **Data Engineering Pipelines**  
-End-to-end design and deployment of robust data pipelines integrating **Kafka**, **Airflow**, and **Zookeeper** on **Google Cloud**.  
-- **Technologies**: Python, Apache Kafka, Google Cloud  
-- 🔗 [Repository Link](https://github.com/yajneshshetty/yajneshshetty)  
+- 🔗 [Repository Link](https://github.com/yajneshshetty/Intracranial-hemorrhage-detection-ICH-)  
 
 ---
+
 ## 🚀 **Skills & Expertise**  
 
 ### **Languages & Tools**  
@@ -87,5 +77,5 @@ End-to-end design and deployment of robust data pipelines integrating **Kafka**,
 <p align="center">
   <a href="https://www.linkedin.com/in/yajneshshetty"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="mailto:yajnesh.shetty@example.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" /></a>
-  <a href="https://github.com/yajneshshetty/yajneshshetty"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" /></a>
+  <a href="https://github.com/yajneshshetty/Intracranial-hemorrhage-detection-ICH-"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" /></a>
 </p>  
