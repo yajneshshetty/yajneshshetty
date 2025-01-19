@@ -34,6 +34,8 @@ A project leveraging advanced deep learning techniques to detect intracranial he
   <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
   <img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5KVvipePSkKXNx0CLGxNfV2hnEdm13gPMA&s" alt="Dask" width="48" height="48"/>
+  
 </p>  
 
 <p align="center">
@@ -42,6 +44,7 @@ A project leveraging advanced deep learning techniques to detect intracranial he
   <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="Kafka" width="48" height="48"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtc0vjEWXsTOG5avPWQOg7sm7iBxDxgk9iA&s" alt="Airflow" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apache_ZooKeeper_logo.svg/1200px-Apache_ZooKeeper_logo.svg.png" alt="Zookeeper" width="48" height="48"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQErU_bJy7GugQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1654708192411?e=2147483647&v=beta&t=2Iqe002AfGXmyUxzt1mIcCeBBOfxIIGs1bSlGMECbyI" alt="Apache Flink" width="48" height="48"/>
 </p>  
 
 ---
@@ -50,7 +53,7 @@ A project leveraging advanced deep learning techniques to detect intracranial he
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
   <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="Power BI" width="48" height="48"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLG9-qs8xtQkO-_DAno-Shyngpq8NJp9UGA&s" alt="Power BI" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLG9-qs8xtQkO-_DAno-Shyngpq8NJp9UGA&s" alt="Apache Superset" width="48" height="48"/>
 </p>  
 
 ---
