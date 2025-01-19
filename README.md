@@ -50,6 +50,7 @@ A project leveraging advanced deep learning techniques to detect intracranial he
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="48" height="48"/>
   <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" alt="Power BI" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLG9-qs8xtQkO-_DAno-Shyngpq8NJp9UGA&s" alt="Power BI" width="48" height="48"/>
 </p>  
 
 ---
