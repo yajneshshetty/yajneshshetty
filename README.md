@@ -31,10 +31,10 @@ A project leveraging advanced deep learning techniques to detect intracranial he
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5KVvipePSkKXNx0CLGxNfV2hnEdm13gPMA&s" alt="Dask" width="48" height="48"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
   <img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5KVvipePSkKXNx0CLGxNfV2hnEdm13gPMA&s" alt="Dask" width="48" height="48"/>
   
 </p>  
 
